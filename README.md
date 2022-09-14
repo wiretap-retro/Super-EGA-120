@@ -19,7 +19,7 @@ Included in this repository are the PCB gerber files, BOM, PC Magazine snippet o
 * Order the board from the PCB fabricator of your choice. (JLCPCB, PCBway, OSH Park, etc.)
 * Order the pin header strip and full can crystal oscillator.
 * Solder the crystal osciallator first, then the pin header.
-* Install to the feature port of your EGA card.
+* Install to the feature port of your EGA card. The feature board should be hanging in the downward orientation with the oscillator facing the video card, but review your specific card's manual first.
 * Copy the software files from the zipped archive to your retro PC.
 * Follow the instructions in the PC magazine article.
 
