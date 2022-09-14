@@ -28,4 +28,4 @@ Requires a compatible monitor for 120 column mode, and an era appropriate EGA vi
 
 ## Other
 * All schematics and software are from PC Magazine September 16, 1986. It appears this was designed to be an end-user project. Many companies used these same schematics to market their own EGA feature boards for 120+ column mode. 
-* I also own a KEA EGAmate-132 that provides for 132-column mode. I have included a clone of that adapter in this repository.
+* I also own a KEA Systems EGAmate-132 that provides for 132-column mode. I have included a clone of that adapter in this repository.
