@@ -1,0 +1,16 @@
+----------------------------------
+Mouser Part#: 520-TCF2400-X
+Manufacturer: ECS
+Part#: ECS-100AX-24.0
+Type: XO - Crystal Clock Oscillator
+Frequency: 24 MHz
+Size: Full Size
+-----------------------------------
+Mouser Part#: 649-77313-101-32LF
+Manufacturer: Amphenol
+Part#: 77313-101-32LF
+Type: Pin Header, Male
+Pin Spacing: 2.54mm
+Orientation: Vertical
+Size: 2 row, 32 position
+-----------------------------------
