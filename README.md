@@ -27,4 +27,5 @@ Included in this repository are the PCB gerber files, BOM, PC Magazine snippet o
 Requires a compatible monitor for 120 column mode, and an era appropriate EGA video card.
 
 ## Other
-All schematics and software are from PC Magazine September 16, 1986. It appears this was designed to be an end-user project. Many companies used these same schematics to market their own EGA feature boards for 120+ column mode. For example, I also own a KEA EGAmate-132 that provides for 132-column mode. I have included a clone of that adapter in this repository.
+* All schematics and software are from PC Magazine September 16, 1986. It appears this was designed to be an end-user project. Many companies used these same schematics to market their own EGA feature boards for 120+ column mode. 
+* I also own a KEA EGAmate-132 that provides for 132-column mode. I have included a clone of that adapter in this repository.
